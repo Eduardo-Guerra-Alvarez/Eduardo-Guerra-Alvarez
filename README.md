@@ -8,13 +8,13 @@
 # Hi there 👋 I'm EDUARDO GUERRA ALVAREZ
 
 <div id="badges" align="center">
-  <a href="">
+  <a href="https://www.linkedin.com/in/eduardo-guerra-alvarez-engineer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="">
+  <a href="https://www.instagram.com/lalo11rojo/">
     <img src="https://shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram" /> 
   </a>
-  <a href="">
+  <a href="https://www.facebook.com/eduardo.guerraalvarez">
     <img src="https://shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
