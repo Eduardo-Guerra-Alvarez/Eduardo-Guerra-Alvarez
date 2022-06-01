@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
 # Hi there 👋 I'm EDUARDO GUERRA ALVAREZ
 
 <div id="badges" align="center">
@@ -12,13 +16,19 @@
   </a>
 </div>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Guerra-Alvarez)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-Guerra-Alvarez&repo=SADG)
-
 ---
 
 ### :man_technologist: About me:
-I'm Informatic Enginner
+I'm Computer Enginner, 🧑‍🎓 I studied in Universidad de Guadalajara
+
+I'm from Mexico 🇲🇽
+I like to learn new things, 💭 search information and 📖 read books about technology.
+
+I considered a geek, I use my terminal with Nvim, some plugins and I use commands to code.
+
+I prefer  JavaScript but I like to code in any language, JAVA, Python, C/C++, etc.
+
+
 
 
 ## Languages
