@@ -60,18 +60,24 @@ I'm Informatic Enginner
 ---
 
 ### Data Base
-MySQL, PostgreSQL, MongoDB
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="40" height="40" />     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="POST" alt="POSTGRES" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MONGO" alt="MONGODB" width="40" height="40" />
+</div>
 
 ---
 
 ### Others
-Git, JSON
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="40" height="40" />
+</div>
 
 ---
 
 ## Technologies
 NVim, Visual Studio Code, NetBeans, Postman, Console (iTerm), Virtual Box
 
+## Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eduardo-Guerra-Alvarez&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Guerra-Alvarez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
