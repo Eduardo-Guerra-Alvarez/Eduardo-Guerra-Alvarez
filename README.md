@@ -11,21 +11,27 @@
   <a href="https://www.linkedin.com/in/eduardo-guerra-alvarez-engineer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
+  <a href="mailto:lalo52rojo@gmail.com
+         ?subject=Saying%20hello%20from%20GFG
+         &body=Hello%20there,%20this%20is%20predefined body
+         ">
+    <img src="https://img.shields.io/badge/Gmail-red?logoColor=white&style=for-the-badge"/>
+  </a>
 </div>
 
 ---
 
 ### :man_technologist: About me:
-I'm Informatic Enginner
+I'm Computer Enginner
  - 🇲🇽 I'm from México
- - 👨‍🎓 I studied at UDG
- - 💻 I code with JavaScript, FullStack
- - 🧑‍🤝‍🧑 I like to work in teams and create skills together
+ - 👨‍🎓 Bachelor Degree UDG
+ - 💻 Developer FullStack
+ - 🧑‍🤝‍🧑 Working together to create a better world
  - 📖 I like to learn new things
 ---
 
 ## Languages
-- English (Intermediate)
+- English (Conversational)
 - Spanish (Native)
 
 ## Coding
@@ -33,11 +39,11 @@ I'm Informatic Enginner
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplus" alt="Cplusplus" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40" />
 </div>
 
 ---
@@ -48,7 +54,6 @@ I'm Informatic Enginner
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40" />
 </div>
 
 ---
@@ -69,7 +74,7 @@ I'm Informatic Enginner
 ---
 
 ## Technologies
-NVim, Visual Studio Code, NetBeans, Postman, Console (iTerm), Virtual Box
+NVim, Visual Studio Code, NetBeans, Postman, Console (iTerm), Virtual Box, Service Now.
 
 ## Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eduardo-Guerra-Alvarez&theme=dark&background=000000)](https://git.io/streak-stats)
